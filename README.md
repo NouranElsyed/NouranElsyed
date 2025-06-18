@@ -1,8 +1,8 @@
 # 💫 About Me:
 Hi there 👋, I'm **Noran El-Sayed**
-A passionate **Full-Stack Developer** 💻
+A passionate **Front-End Developer** 💻
 🔭 I’m currently working on exciting projects using **React** 🚀
-🌱 Currently enhancing my skills in **Back-end development with ASP.NET**
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noranelsayed)  
@@ -13,9 +13,7 @@ A passionate **Full-Stack Developer** 💻
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Angular](https://img.shields.io/badge/angular-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) 
-![ASP.NET](https://img.shields.io/badge/ASP.NET-%230093C4.svg?style=for-the-badge&logo=.net&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 # 📊 GitHub Stats:
